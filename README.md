@@ -1,7 +1,7 @@
 # COSC55 Final Project
 ## Due August 27th, at 11:59 PM
 
-Welcome To Sri and Warren's repository  + wiki for our COSC 55 Final project! This ReadMe will act as a guide for the wiki.
+Welcome To Sri and Warren's repository  + wiki for our COSC 55 Final project! This ReadMe will act as a guide for our project and wiki.
 
 ## Structure of Repo
 All of our documentation is through the wiki feature; click the wiki, then select the relevant page. We have pages for each module (system design for module 2, creation of environment for module 3, testing for module 3, security implementation walkthrough for module4, and a Security Technical Summary with testing for module 4), a initial source which we used to guide our research, and a final resources page of articles we used to guide our implementations for security for module 4. Check the wiki for these details on the project.
