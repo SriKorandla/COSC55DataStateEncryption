@@ -13,14 +13,12 @@ All of our documentation is through the wiki feature; click the wiki, then selec
 - 2 students with a now in-depth understanding of AWS
 - 2 Happy faces when the project was finished
 
-## Summary of Project
-First, some background on the hypothetical organization: they are a small company that develops software, about 60-80 people large. They have an "employee directory", which is the focus of this project. This employee directory has application server(s) that serve curious employees a directory of their fellow coworkers, their contact photos, and contact information, and a database server that stores this information. A s3 bucket is used store employee pictures, and another will be used to store logs. Our project is implementing security on this
+## Summary of Project (Check Project Summary for summary of technical details)
+First, some background on the hypothetical organization: they are a small company that develops software, about 60-80 people large. They have an "employee directory", which is the focus of this project. This employee directory has application server(s) that serve curious employees a directory of their fellow coworkers, their contact photos, and contact information, and a database server that stores this information. A s3 bucket is used store employee pictures, and another will be used to store logs. Our project is implementing security on this.
 
 
 Our project initially started off as a project focusing on encryption, where we would primarily be using Amazon KMS and IAM to ensure strict user roles and employ encryption at rest and transit through various AWS services, and use CloudWatch and CloudTrail for logging and monitoring purposes among other resources. We initially wanted to have a load balancer as well. However, as we started module 3, we realized that a load balancer would not be useful/make sense for our implementation, and pivoted away from it. An obstacle we ran into was our learner acounts could not use the IAM interface to create roles and such, which ended up restricting the scope of initial project even more. However, at this point, we decided to expand the initial scope of the project and dive deep into all the various offerings AWS could provide us, with the objective to learn the most, even if we were blocked off from using certain features. We ended up using the following resources either hypothetically(because lack of permissions), or in actual practice: AWS Lambda, Rekognition, EC2, Systems Manager(Fleet Manager, Incident Manager), VPC, CloudWatch, CloudTrail, Firewall Manager, IAM, KMS, S3, and GuardDuty. 
 
-Into the Implementation:
-We had a VPC, where the hypothethical organization would have their cloud environemnt live. There would be a public subnet and a private subnet. THe private subnet would have a database server to store data on the 
 
 ## Project Reflection
 
