@@ -7,13 +7,14 @@ Welcome To Sri and Warren's repository  + wiki for our COSC 55 Final project! Th
 All of our documentation is through the wiki feature; click the wiki, then select the relevant page. We have pages for each module (system design for module 2, creation of environment for module 3, testing for module 3, security implementation walkthrough for module4, and a Security Technical Summary with testing for module 4), a initial source which we used to guide our research, and a final resources page of articles we used to guide our implementations for security for module 4. Check the wiki for these details on the project.
 
 ## In a Nutshell:
-- 12 Distinct AWS Resources used
+- 12 Distinct AWS Resources used!!
 - 17 hours spent on implementation
 - 3 hours spent agonizing on why IAM would not work
 - 2 students with a now in-depth understanding of AWS
 - 2 Happy smiles when the project was finished
 
 ## Summary of Project (Check Project Summary for summary of technical details)
+AWS Resources used: Lambda, Rekognition, EC2, Systems Manager(Fleet Manager, Incident Manager), VPC, CloudWatch, CloudTrail, Firewall Manager, IAM, KMS, S3, and GuardDuty
 First, some background on the hypothetical organization: they are a small company that develops software, about 60-80 people large. They have an "employee directory", which is the focus of this project. This employee directory has application server(s) that serve curious employees a directory of their fellow coworkers, their contact photos, and contact information, and a database server that stores this information. A s3 bucket is used store employee pictures, and another will be used to store logs. Our project is implementing security on this.
 
 
