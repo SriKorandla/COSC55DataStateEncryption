@@ -8,10 +8,10 @@ All of our documentation is through the wiki feature; click the wiki, then selec
 
 ## In a Nutshell:
 - 12 Distinct AWS Resources used
-- 15 hours spent on implementation
-- 2 hours spent agonizing on why IAM would not work
+- 17 hours spent on implementation
+- 3 hours spent agonizing on why IAM would not work
 - 2 students with a now in-depth understanding of AWS
-- 2 Happy faces when the project was finished
+- 2 Happy smiles when the project was finished
 
 ## Summary of Project (Check Project Summary for summary of technical details)
 First, some background on the hypothetical organization: they are a small company that develops software, about 60-80 people large. They have an "employee directory", which is the focus of this project. This employee directory has application server(s) that serve curious employees a directory of their fellow coworkers, their contact photos, and contact information, and a database server that stores this information. A s3 bucket is used store employee pictures, and another will be used to store logs. Our project is implementing security on this.
