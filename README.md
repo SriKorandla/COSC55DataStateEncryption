@@ -5,11 +5,11 @@ Welcome To Sri and Warren's repository  + wiki for our COSC 55 Final project! Th
 
 ## Structure of Repo
 All of our documentation is through the wiki feature; click the wiki, then select the relevant page. We have pages for each module: 
-* system design for module 2
-* creation of environment for module 3
-* testing for module 3
-* security implementation full walkthrough for module 4
-* Security Technical Summary for module 4
+* System Design for Module 2
+* Creation of Environment for Module 3
+* Testing for Module 3
+* Security Implementation Full Walkthrough for Module 4
+* Security Technical Summary for Module 4
 
 We also have a initial source which we used to guide our research, and a final resources page of articles we used to guide our implementations for security for module 4. Check the wiki for these details on the project.
 
