@@ -4,7 +4,7 @@
 Welcome To Sri and Warren's repository  + wiki for our COSC 55 Final project! This ReadMe will act as a guide for our project and wiki.
 
 ## Structure of Repo
-All of our documentation is through the wiki feature; click the wiki, then select the relevant page. We have pages for each module: 
+All of our documentation and project details is through the wiki feature; click the wiki, then select the relevant page. We have pages for each module: 
 * System Design for Module 2
 * Creation of Environment for Module 3
 * Testing for Module 3
