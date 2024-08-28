@@ -20,7 +20,7 @@ We also have a initial source which we used to guide our research, and a final r
 - 2 students with a now in-depth understanding of AWS
 - 2 Happy smiles when the project was finished
 
-## Summary of Project (Check Project Summary for summary of technical details)
+## Summary of Project (Check the Walkthrough on the Wiki to get a step by step complete walkthrough to follow along and implement the solution, or Security Technical Summary for summary of technical details)
 AWS Resources used: Lambda, Rekognition, EC2, Systems Manager(Fleet Manager, Incident Manager), VPC, CloudWatch, CloudTrail, Firewall Manager, IAM, KMS, S3, and GuardDuty
 
 First, some background on the hypothetical organization: they are a small company that develops software, about 60-80 people large. They have an "employee directory", which is the focus of this project. This employee directory has application server(s) that serve curious employees a directory of their fellow coworkers, their contact photos, and contact information, and a database server that stores this information. A s3 bucket is used store employee pictures, and another will be used to store logs. Our project is implementing security on this.
