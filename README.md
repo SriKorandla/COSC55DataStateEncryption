@@ -11,7 +11,7 @@ All of our documentation and project details is through the wiki feature; click 
 * Security Implementation Full Walkthrough for Module 4
 * Security Technical Summary for Module 4
 
-We also have a initial source which we used to guide our research, and a final resources page of articles we used to guide our implementations for security for module 4. Check the wiki for these details on the project.
+Note that we made our walkthrough incredibly detaied, so that people could easily follow along (hence its length). We also have a initial source which we used to guide our research, and a final resources page of articles we used to guide our implementations for security for module 4. Check the wiki for these details on the project. 
 
 ## In a Nutshell:
 - 12 Distinct AWS Resources used!!
